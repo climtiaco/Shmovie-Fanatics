@@ -15,7 +15,7 @@ export const Navbar = () => {
         <input
           type='text'
           placeholder='Search...'
-          className='w-[200px] h-[50px] rounded-full mr-5 p-4 bg-transparent outline-none transition ease-in-out delay-250 hover:-translate-y-1 hover:scale-110 hover:border-blue-500 hover:border-2 focus:text-gray-300 duration-200'
+          className='w-[200px] h-[50px] rounded-full mr-5 p-4 bg-transparent outline-none transition ease-in-out delay-250 hover:-translate-y-1 hover:scale-110 hover:border-blue-500 hover:border-2 focus:text-gray-400 focus:-translate-y-1 focus:scale-110 focus:border-blue-500 focus:border-2 duration-200'
         />
       </span>
     </div>
